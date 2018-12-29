@@ -1,0 +1,1 @@
+Remain calm and carefully follow <a href="https://wordpress.org/support/article/faq-my-site-was-hacked/">this guide</a>. When you're done, you may want to implement some (if not all) of <a href="https://wordpress.org/support/article/hardening-wordpress/">the recommended security measures</a>.

@@ -1,0 +1,3 @@
+Try <a href="https://wordpress.org/download/">downloading WordPress</a> again, access your server via <a href="https://wordpress.org/support/article/ftp-clients/">SFTP or FTP</a>, or a file manager in your hosting account's control panel, and delete then replace your copies of everything except the `wp-config.php` file and the `/wp-content/` directory with fresh copies from the download. This will effectively replace all of your core files without damaging your content and settings.
+
+Some uploaders tend to be unreliable when overwriting files, so don't forget to delete the original files before replacing them.

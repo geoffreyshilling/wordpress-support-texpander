@@ -1,0 +1,1 @@
+One thing to understand about multisite is that by default each subsite functions as a completely separate site as far as content. That said, there are some plugins where you can duplicate content between sites. Search the repository for "multisite duplicate content". BUT, you should be aware that Google will penalize you as far as SEO when you duplicate site content in this way.

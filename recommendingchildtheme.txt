@@ -1,0 +1,1 @@
+The best way to make changes like this to a theme is to use a <a href="https://developer.wordpress.org/themes/advanced-topics/child-themes/">child theme</a>, so your tweaks won't be overwritten when updating the theme.

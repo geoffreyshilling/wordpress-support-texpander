@@ -1,0 +1,12 @@
+If you're seeing this error either suddenly (no specific task was done to cause the error) or frequently, try deactivating all plugins to rule-out a plugin-specific issue and try switching themes to rule-out a theme-specific issue.
+
+Otherwise, here are three ways to increase PHP's memory allocation:
+
+1. If you can edit or override the system `php.ini` file, increase the memory limit. For example, `memory_limit = 128M`
+
+2. If you cannot edit or override the system `php.ini` file, add `php_value memory_limit 128M` to your `.htaccess` file.
+
+3. If neither of these work, it's time to ask your hosting provider to temporarily increase PHP's memory allocation on your account.
+
+(in the above examples, the limit is set to 128MB)
+

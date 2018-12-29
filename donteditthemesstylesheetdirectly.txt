@@ -1,0 +1,5 @@
+Don't edit the theme files directly, otherwise your changes will be overwritten whenever the theme is updated.
+
+A custom CSS editor (usually titled Additional CSS) is included in the Customizer as of WordPress 4.7 specifically for this purpose.
+
+As an alternative, especially if you intend to modify more than just CSS, create a <a href="https://developer.wordpress.org/themes/advanced-topics/child-themes/">child theme.</a>

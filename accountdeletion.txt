@@ -1,0 +1,1 @@
+At this time, <a href="https://make.wordpress.org/support/handbook/forum-welcome/#deleting-accounts">accounts cannot be deleted</a> at WordPress.org, it is currently a technical impossibility. You can edit your profile to remove all info, and we can even block your account if you want us to, but we cannot delete the account.

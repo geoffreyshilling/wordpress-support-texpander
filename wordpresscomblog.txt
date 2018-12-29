@@ -1,0 +1,1 @@
+Due to the differences between the free hosted blogs offered at wordpress.com and the self-hosted and self-installed version of WordPress supported here, you should probably ask <a href="https://en.support.wordpress.com/contact/">WordPress.com Support</a> instead.

@@ -1,0 +1,1 @@
+To create a subsite in WP multisite, simply go to Sites -- Add New in the Network Admin dashboard. If you are using subdomain type multisite, you do NOT need to create the subdomain in your hosting. Multisite will do this for you using the wildcard domain that you set up in your hosting account.

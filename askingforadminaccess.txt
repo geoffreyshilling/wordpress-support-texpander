@@ -1,0 +1,9 @@
+Please don't do that: when you offer to get admin access and/or FTP access then you're really going too far and that's not cool.
+
+https://make.wordpress.org/support/handbook/forum-welcome/#the-bad-stuff
+
+If you are given admin credentials, you are potentially liable for any potential damage that maybe caused, not only by yourself but anyone accessing the system. Even if you do not provide warranty with your own product.
+
+Unless you're willing to take responsibility for that user's installation from now on (and they should NOT let you do that) then please do not ask or suggest that someone provide you those admin or FTP details.
+
+You can provide assistance here, ask for log data, you can make recommendations and even suggest changes. But do not seek admin or FTP access. That's just going too far.

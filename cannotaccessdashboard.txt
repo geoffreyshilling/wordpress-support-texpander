@@ -1,0 +1,3 @@
+Try <a href="https://wordpress.org/support/article/faq-troubleshooting/#how-to-deactivate-all-plugins-when-not-able-to-access-the-administrative-menus">manually resetting your plugins</a> (no Dashboard access required). If that resolves the issue, reactivate each one individually until you find the cause.
+
+If that does not resolve the issue, access your server via <a href="https://wordpress.org/support/article/ftp-clients/">SFTP or FTP</a>, or a file manager in your hosting account's control panel, navigate to `/wp-content/themes/` and rename the directory of your currently active theme. This will force the default theme to activate and hopefully rule-out a theme-specific issue (theme functions can interfere like plugins).

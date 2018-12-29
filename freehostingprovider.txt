@@ -1,0 +1,3 @@
+We typically don't recommend free hosting providers around here, as they often offer crippled servers that prevent WordPress from functioning properly.
+
+If you want a free blog, try <a href="https://wordpress.com/">WordPress.com</a> instead. If you don't mind paying, the WordPress team has provided <a href="https://wordpress.org/hosting/">a list of recommended hosting providers</a>.

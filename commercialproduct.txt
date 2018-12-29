@@ -1,0 +1,5 @@
+If you use a commercial theme or plugin and need support, please go to their official support channel. In order to be good stewards of the WordPress community, and encourage innovation and progress, we feel it's important to direct people to those official locations.
+
+[product support URL, if easily found]
+
+Forum volunteers are also not given access to commercial products, so they would not know why your commercial theme or plugin is not working properly. This is one other reason why volunteers forward you to the commercial product's vendors. The vendors are responsible for supporting their commercial product.

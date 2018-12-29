@@ -1,0 +1,11 @@
+The maximum upload size is controlled at the server-level, not by WordPress. Here are three ways you can increase the upload limit:
+
+1. If you can edit or override the system `php.ini` file, increase the maximum file and post sizes. For example, `upload_max_filesize = 100M ;` and `post_max_size = 100M ;`
+
+2. If you cannot edit or override the system `php.ini` file, add `php_value upload_max_filesize 100M` and `php_value post_max_size = 100M` to your `.htaccess` file.
+
+3. If neither of these work, it's time to ask your hosting provider to increase the maximum file and post sizes on your account. Keep in mind that most decent hosting providers allow this, and If your hosting provider won't accommodate you, perhaps it's time to find a new hosting provider.
+
+4. There are some plugins in the plugin directory that can help you get around this limit, for instance, helping you "chunk" your uploads, breaking them into smaller parts. Try searching "increase file upload limit".
+
+(in the above examples, the limit is set to 100MB)

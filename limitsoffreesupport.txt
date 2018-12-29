@@ -1,0 +1,5 @@
+At this point, we've reached the limits of what most in the community here are willing to offer in their spare time (everyone here is a volunteer). You should consider hiring someone so that you can give them direct access to the site for a far more efficient fix than we can provide here.
+
+Please try http://jobs.wordpress.net/ or https://jetpack.pro/ and do not accept any hire offers posted to these forums.
+
+We will keep this thread open, unless it veers too far off course, in case someone from the community is willing to provide further help here for free.

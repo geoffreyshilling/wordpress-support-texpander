@@ -1,0 +1,3 @@
+Unless you have a backup that you can restore from, downgrading is a dangerous process, which is why backing up before upgrading is strongly recommended both in the upgrade instructions and automatic upgrade interface.
+
+It would be better to solve your current problem. Would you please describe what is wrong?
